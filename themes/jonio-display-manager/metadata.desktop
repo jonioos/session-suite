@@ -1,0 +1,10 @@
+[SddmGreeterTheme]
+Name=Jonio Display Manager
+Description=SDDM theme designed to match Jonio Lockscreen for KDE Plasma
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+QtVersion=6
+Theme-Id=mattino
+Theme-API=2.0
+Screenshot=preview.png

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="badge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#284867"/><stop offset="1" stop-color="#101f37"/>
+    </linearGradient>
+  </defs>
+  <circle cx="36" cy="36" r="35" fill="url(#badge)" stroke="#36516b"/>
+  <path d="M22 50a15 15 0 0 1 28 0" fill="none" stroke="#e9f6ff" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="36" cy="31" r="9.5" fill="none" stroke="#e9f6ff" stroke-width="2.5"/>
+</svg>
